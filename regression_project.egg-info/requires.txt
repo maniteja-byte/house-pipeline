@@ -1,6 +1,6 @@
-numpy
-pandas
 Flask
 ipykernel
-seaborn
 matplotlib
+numpy
+pandas
+seaborn
